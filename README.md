@@ -32,7 +32,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetkirkzade&label=Profilin%20g%C3%B6r%C3%BCnt%C3%BClenme%20say%C4%B1s%C4%B1&color=0e75b6&style=flat" alt="ahmetkirkzade" /> </p>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
