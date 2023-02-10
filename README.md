@@ -29,3 +29,11 @@
 <a href="https://www.youtube.com/c/ahmet kırkzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/ahmetkirkzade/Assets/ab74fbd0b17d88c146e5216c8fc401f4462dcbaa/Pictures/illustrator.svg" alt="ahmet kırkzade" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ahmet kırkzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/ahmetkirkzade/Assets/ab74fbd0b17d88c146e5216c8fc401f4462dcbaa/Pictures/pr_appicon.svg" alt="ahmet kırkzade" height="30" width="40" /></a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetkirkzade&label=Profilin%20g%C3%B6r%C3%BCnt%C3%BClenme%20say%C4%B1s%C4%B1&color=0e75b6&style=flat" alt="ahmetkirkzade" /> </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetkirkzade&show_icons=true&theme=dark&locale=en" alt="ahmetkirkzade" /></p>
